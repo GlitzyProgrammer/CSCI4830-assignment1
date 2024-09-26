@@ -1,2 +1,2 @@
-# Github and git  confilct
+#Github and git
 UNO Start Year Fall 2021- Student
